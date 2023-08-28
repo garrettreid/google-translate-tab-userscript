@@ -1,5 +1,5 @@
 # Google Translate tab userscript
-[![GitHub release (with filter)](https://img.shields.io/github/v/release/garrettreid/google-translate-keyboard-shortcut-userscript?label=install)](https://raw.githubusercontent.com/garrettreid/google-translate-tab-userscript/main/google-translate-tab.user.js)
+[![GitHub release (with filter)](https://img.shields.io/github/v/release/garrettreid/google-translate-tab-userscript?label=install)](https://raw.githubusercontent.com/garrettreid/google-translate-tab-userscript/main/google-translate-tab.user.js)
 
 ## Summary
 A [userscript](https://en.wikipedia.org/wiki/Userscript) to enable switching between languages on Google Translate using the tab key. This is especially useful for [Safari](https://www.apple.com/safari/), as Google Translate's language swap key (Cmd+Shift+S) conflicts with Safari's keybinding for saving a webpage.
