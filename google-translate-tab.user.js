@@ -11,8 +11,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // @run-at       document-end
-// @match        http://translate.google.tld/*
-// @match        https://translate.google.tld/*
+// @include      http://translate.google.tld/*
+// @include      https://translate.google.tld/*
 // ==/UserScript==
 
 (function() {
