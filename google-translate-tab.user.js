@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tab in Google Translate
 // @namespace    https://garrettreid.com
-// @version      1.0
+// @version      1.0.2
 // @description  Swap languages with Tab. Especially useful in Safari.
 // @author       Garrett Reid
 // @license      MIT; https://opensource.org/licenses/MIT
